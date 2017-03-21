@@ -1,0 +1,175 @@
+h1{
+  margin-bottom: 8px;
+	font-family: Arial Black;
+	font-size: 44px;
+	color: #778A50;
+	float: left;
+}
+
+h2{
+	margin-top: 20px;
+	font-family: Arial Black;
+	font-size: 16px;
+	color: #EDF2C5;
+	padding: 15px 30px;
+	border-radius: 3px;
+	background-color: #778A50;
+}
+header{
+	margin-top: 15px;
+}
+
+body{
+	background-color: #EDF2C5;
+	margin: 0;
+}
+
+
+footer {
+	font-family: ArialMT Regular, sans-serif;
+	font-size: 12px;
+	text-align: center;
+	width: auto;
+	height: 32px;
+	padding: 15px;
+	background-color: #778A50;
+}
+
+footer p{
+	color: #EDF2C5;
+}
+.container{
+	width: 1260px;
+	margin: 0 auto;
+	padding: 0 160px;
+	box-sizing: border-box;
+}
+
+.btn{
+	float: right;
+	margin-top: 53px;
+}
+
+.text{
+	width: 450px;
+	height: 130px;
+	background-color: #F7FBDA;
+	margin-bottom: 35px;
+	padding: 5px;
+}
+
+
+.text p{
+	font-family: ArialMT Regular, sans-serif;
+	font-size: 12px;
+	background-color: #F7FBDA;
+	color: #7D7D7D;
+	margin: 5px 0 5px 15px;
+}
+
+.fb_ig_icon{
+	display: inline-block;
+}
+.login_join{
+  display: inline-block;
+}
+
+.fb img{
+	vertical-align: bottom;
+	margin: 0 7px 0 0;
+}
+.ig img{
+	vertical-align: bottom;
+	margin: 0 7px 0 0;
+}
+
+.login_join{
+	font-family: Arial;
+	font-size: 14px;
+	font-weight: bold;
+	padding-left: 3px;
+	color: #778A50;
+	border-left: 1px solid #778A50;
+	line-height: 25px;
+	margin-bottom: 17px;
+	vertical-align: top;
+}
+
+.login{
+	margin: 0 0 0 7px;
+	border-radius: 3px;
+	border: 1px solid;
+	padding: 3px 5px;
+}
+.join{
+	margin: 0 0 0 7px;
+	border-radius: 3px;
+	border: 1px solid;
+	padding: 3px 5px;
+}
+
+.login a{
+	color: #778A50;
+}
+.join a{
+	color: #778A50;
+}
+
+.menu ul{
+	margin: 0px;
+	padding: 0px,0px,8px,0px;
+	float: left;
+	width: 900px;
+	border-radius: 3px;
+	background-color: #778A50;
+}
+
+.menu li{
+	list-style: none;
+	color: #EDF2C5;
+	background-color: #778A50;
+	padding: 13px 60px 13px 0px;
+	display: inline-block;
+	float: left;
+}
+
+.menu a{
+	font-family: Arial Black;
+	font-size: 16px;
+	color: #EDF2C5;
+	text-decoration: none;
+}
+
+.vegetables{
+	float: left;
+}
+
+.contact{
+	float: right;
+}
+
+
+.img_b{
+	margin-top: 20px;
+}
+
+.img{
+	margin-right: 12px;
+}
+
+.img_f{
+	margin-right: 0px;
+}
+
+.line{
+	height: 1px;
+	width: 414px;
+	background-color: #7D7D7D;
+	margin: 15px 0px 16px 15px;
+}
+
+.clear:after {
+	content: "";
+	display: block;
+	clear: both;
+}
